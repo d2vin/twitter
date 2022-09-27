@@ -1,8 +1,8 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Twittere*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Twitter** is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **3** hours spent in total
 
 ## User Stories
 
@@ -24,4 +24,8 @@ The following **bonus** features are implemented:
 Here's a <a href="https://imgur.com/a/QgwQC5g/fullscreen"
 target="_blank">
     <strong>walkthrough</strong></a> of implemented user stories:
+
+## Notes
+
+Due to my current developer access to the Twitter API, the tweets are currently unavailable for me to use. Once elevated access is approved, the tweets should load into the app just fine.
 
